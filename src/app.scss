@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+.ant-typography .ant-typography-secondary {
+  color: #fff;
+}
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.app-content {
+  min-height: 100vh;
+}
